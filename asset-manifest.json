@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sectorbuisnessprod/static/css/main.2f173c68.css",
+    "main.js": "/sectorbuisnessprod/static/js/main.006b874c.js",
+    "static/js/787.6fafef4f.chunk.js": "/sectorbuisnessprod/static/js/787.6fafef4f.chunk.js",
+    "static/media/Roboto-SemiBold.woff": "/sectorbuisnessprod/static/media/Roboto-SemiBold.5c56dc41092faf73ef86.woff",
+    "static/media/Roboto-BoldItalic.woff": "/sectorbuisnessprod/static/media/Roboto-BoldItalic.a57aff9169237b9eb20b.woff",
+    "static/media/Roboto-Medium.woff": "/sectorbuisnessprod/static/media/Roboto-Medium.7f14ecd0b43d45072083.woff",
+    "static/media/Roboto-Bold.woff": "/sectorbuisnessprod/static/media/Roboto-Bold.d616edad43b59c9c4638.woff",
+    "static/media/Roboto-Regular.woff": "/sectorbuisnessprod/static/media/Roboto-Regular.f5d838f39c78442ecb6a.woff",
+    "index.html": "/sectorbuisnessprod/index.html",
+    "main.2f173c68.css.map": "/sectorbuisnessprod/static/css/main.2f173c68.css.map",
+    "main.006b874c.js.map": "/sectorbuisnessprod/static/js/main.006b874c.js.map",
+    "787.6fafef4f.chunk.js.map": "/sectorbuisnessprod/static/js/787.6fafef4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f173c68.css",
+    "static/js/main.006b874c.js"
+  ]
+}
