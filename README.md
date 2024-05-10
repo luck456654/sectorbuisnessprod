@@ -1,2 +1,2 @@
-<h1>Заготовка React+Redux</h1>
+<b>Заготовка React+Redux</b>
 
