@@ -1,2 +1,2 @@
-<b>Заготовка React+Redux</b>
+<b>Демо</b> - https://github.com/luck456654/sectorbuisnessprod
 
