@@ -1,2 +1,2 @@
-<b>Демо</b> - https://github.com/luck456654/sectorbuisnessprod
+<b>Демо</b> - https://luck456654.github.io/sectorbuisnessprod/
 
